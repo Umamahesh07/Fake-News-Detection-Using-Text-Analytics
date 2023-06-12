@@ -6,3 +6,6 @@ Fake News Detection Using Text Analytics
 
 * This approach leads to better classification accuracy and recall based on specified threshold value.
 
+System Design
+
+![alt text](/img/Projectdesign.jpg)
